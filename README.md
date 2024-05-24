@@ -139,7 +139,7 @@
 - Entendemos que para manipular arquivos em `PHP`, `LARAVEL` e outras tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns guias:
 * [CURSO DE PHP](https://github.com/VILHALVA/CURSO-DE-PHP)
 * [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
-* [CURSO DE PHPP COM MYSQL](https://github.com/VILHALVA/CURSO-DE-PHP-COM-MYSQL)
+* [CURSO DE PHP COM MYSQL](https://github.com/VILHALVA/CURSO-DE-PHP-COM-MYSQL)
 * [CURSO DE MATERIALIZECSS](https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS)
 * [CURSO DE CHARTJS](https://github.com/VILHALVA/CURSO-DE-CHARTJS)
 * [VEJA A DOCUMENTAÇÃO DO "DARRYLDECODE CART"](https://packagist.org/packages/darryldecode/cart)
